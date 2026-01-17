@@ -9,6 +9,9 @@ body {
   line-height: 85px;
   margin-bottom: 20px;
 }
+h1 {
+  font-family: "EB Garamond", serif;
+}
 .hero {
   background-image: url(images/banner.png);
   background-repeat: no-repeat;
