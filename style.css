@@ -38,3 +38,6 @@ h1 {
   max-width: 700px;
   margin: auto;
 }
+.contain2 {
+  background: linear-gradient(to left, #f3f3f3, #f3f3f300);
+}
